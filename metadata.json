@@ -1,0 +1,8 @@
+{
+  "name": "X9 GAME HUB PRO VERSION",
+  "description": "A professional launcher to import, store, run, and manage HTML5 games locally using IndexedDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
